@@ -1,0 +1,5 @@
+Final accuracy: 0.7616279069767442
+Final precision: [0.77629827 0.66055046]
+Final recall: [0.94032258 0.3       ]
+Final f1: [0.85047411 0.41260745]
+(Order: NOT, OFF)
